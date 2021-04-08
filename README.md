@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 🔭
+
+💬Computer Engineering student at University Complutense of Madrid💬
 
 <!--
 **AlexandraMolina/AlexandraMolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
