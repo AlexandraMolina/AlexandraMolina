@@ -2,6 +2,7 @@
 
 💬Computer Engineering student at University Complutense of Madrid💬
 <br>
+<br>
 <img src="https://i.pinimg.com/originals/ea/d5/fe/ead5fe2465ac150d95a9fa896bba3a6d.jpg" alt="dinotocat" style="float: left; margin-right: 20px;" width="200px" />
 
 <!--
@@ -34,8 +35,8 @@ Here are some ideas to get you started:
 
 # Languages
 
-![C++](https://img.shields.io/badge/-3d3d3d?style=flat&logo=c++&logoColor=white&link=https://github.com/pranjaljain0)
-![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/pranjaljain0)
+![C](https://img.shields.io/badge/-3d3d3d?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)
 
 ### Design
 
