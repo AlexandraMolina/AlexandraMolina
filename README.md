@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![AlexandraMolina GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandraMolina)](https://github.com/AlexandraMolina/github-readme-stats)
+![AlexandraMolina github stats](https://github-readme-stats.vercel.app/api?username=AlexandraMolina&count_private=true&show_icons=true&theme=radical&include_all_commits=true)<img src="https://github.com/AlexandraMolina/AlexandraMolina/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 20px;" width="200px" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandraMolina&layout=compact&theme=radical)
+
