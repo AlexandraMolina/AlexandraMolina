@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 
 ![C](https://img.shields.io/badge/-3d3d3d?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3.1-blue?style=flat&logo=python&logoColor=blue)
 
 ### Design
 
